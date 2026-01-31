@@ -1,4 +1,4 @@
-# 🏗️ Damage Classification in Under-Construction Buildings
+# Damage Classification in Under-Construction Buildings
 
 This project focuses on detecting and classifying structural damage in under-construction buildings using image-based analysis. A CNN model is used to identify visible cracks or damage in building images and classify them based on severity.
 
